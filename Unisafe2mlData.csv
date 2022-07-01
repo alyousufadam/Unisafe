@@ -610,38 +610,178 @@ Syringe Assembly Force with Lab,4,Sample 32,15.075,N,N/A,27G TW Ompi
 Syringe Assembly Force with Lab,4,Sample 33,15.15,N,N/A,27G TW Ompi
 Syringe Assembly Force with Lab,4,Sample 34,14.775,N,N/A,27G TW Ompi
 Syringe Assembly Force with Lab,4,Sample 35,15.675,N,N/A,27G TW Ompi
-Force to Disassemble,1,Sample 1,115.875,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 2,117.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 3,118.375,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 4,119.625,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 5,116.125,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 6,114.875,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 7,118.375,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 8,117.25,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 9,118.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 10,115.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 11,113.875,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 12,117.875,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 13,114,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 14,117.125,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 15,114.375,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 16,116.625,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 17,116.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 18,112.625,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 19,114.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 20,120.375,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 21,116.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 22,116.25,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 23,119.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 24,118.375,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 25,119.125,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 26,115.75,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 27,114.25,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 28,116,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 29,116.625,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 30,118.375,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 31,119,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 32,116.625,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 33,119.625,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 34,117.375,N,N/A,27G TW Gerresheimer
-Force to Disassemble,1,Sample 35,116.875,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 1,115.875,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 2,117.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 3,118.375,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 4,119.625,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 5,116.125,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 6,114.875,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 7,118.375,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 8,117.25,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 9,118.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 10,115.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 11,113.875,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 12,117.875,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 13,114,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 14,117.125,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 15,114.375,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 16,116.625,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 17,116.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 18,112.625,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 19,114.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 20,120.375,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 21,116.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 22,116.25,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 23,119.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 24,118.375,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 25,119.125,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 26,115.75,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 27,114.25,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 28,116,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 29,116.625,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 30,118.375,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 31,119,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 32,116.625,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 33,119.625,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 34,117.375,N,N/A,27G TW Gerresheimer
+Safety Shroud Retention Force,1,Sample 35,116.875,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 1,158.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 2,156.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 3,155.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 4,159.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 5,159,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 6,150.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 7,154.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 8,165.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 9,157.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 10,159.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 11,159.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 12,164.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 13,163.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 14,157,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 15,154.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 16,156.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 17,152.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 18,154.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 19,154.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 20,158.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 21,159.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 22,77.9,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 23,154.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 24,157.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 25,152.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 26,154.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 27,162.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 28,160.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 29,164.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 30,159.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 31,163,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 32,156.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 33,155.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 34,158.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,1,Sample 35,154,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 1,167.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 2,162.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 3,168,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 4,171.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 5,160.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 6,162.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 7,162.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 8,165.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 9,171.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 10,171,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 11,164.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 12,161.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 13,160,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 14,170.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 15,164.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 16,168.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 17,163,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 18,167.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 19,168,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 20,180.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 21,163.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 22,168.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 23,163.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 24,166.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 25,163,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 26,165.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 27,164.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 28,164.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 29,165.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 30,167.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 31,168.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 32,167.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 33,163.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 34,166.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,2,Sample 35,165.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 1,162.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 2,164.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 3,162.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 4,163.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 5,167,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 6,158.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 7,163.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 8,162.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 9,160.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 10,164,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 11,160.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 12,165.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 13,166.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 14,160.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 15,165.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 16,126,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 17,164.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 18,163.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 19,161.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 20,163,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 21,163,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 22,163.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 23,159.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 24,161,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 25,163.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 26,181,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 27,184.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 28,164.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 29,167.8,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 30,166.2,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 31,161.6,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 32,160,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 33,165.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 34,166.4,N,N/A,27G TW Gerresheimer
+Safety Plunger Retention Force,3,Sample 35,178.8,N,N/A,27G TW Gerresheimer
+Max Force During Delivery,1,Sample 1,173.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 2,163,N,N/A,N/A
+Max Force During Delivery,1,Sample 3,179.6,N,N/A,N/A
+Max Force During Delivery,1,Sample 4,167,N,N/A,N/A
+Max Force During Delivery,1,Sample 5,190.4,N,N/A,N/A
+Max Force During Delivery,1,Sample 6,172.4,N,N/A,N/A
+Max Force During Delivery,1,Sample 7,180.6,N,N/A,N/A
+Max Force During Delivery,1,Sample 8,174.8,N,N/A,N/A
+Max Force During Delivery,1,Sample 9,168,N,N/A,N/A
+Max Force During Delivery,1,Sample 10,187,N,N/A,N/A
+Max Force During Delivery,1,Sample 11,199.6,N,N/A,N/A
+Max Force During Delivery,1,Sample 12,187.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 13,179.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 14,179,N,N/A,N/A
+Max Force During Delivery,1,Sample 15,166.8,N,N/A,N/A
+Max Force During Delivery,1,Sample 16,162.8,N,N/A,N/A
+Max Force During Delivery,1,Sample 17,172.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 18,168.4,N,N/A,N/A
+Max Force During Delivery,1,Sample 19,171.6,N,N/A,N/A
+Max Force During Delivery,1,Sample 20,187.4,N,N/A,N/A
+Max Force During Delivery,1,Sample 21,181.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 22,182.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 23,172.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 24,168.6,N,N/A,N/A
+Max Force During Delivery,1,Sample 25,184.4,N,N/A,N/A
+Max Force During Delivery,1,Sample 26,179.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 27,170,N,N/A,N/A
+Max Force During Delivery,1,Sample 28,183.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 29,180.2,N,N/A,N/A
+Max Force During Delivery,1,Sample 30,184.8,N,N/A,N/A
+Max Force During Delivery,1,Sample 31,168.6,N,N/A,N/A
+Max Force During Delivery,1,Sample 32,166.4,N,N/A,N/A
+Max Force During Delivery,1,Sample 33,167.6,N,N/A,N/A
+Max Force During Delivery,1,Sample 34,184.8,N,N/A,N/A
+Max Force During Delivery,1,Sample 35,193.4,N,N/A,N/A
